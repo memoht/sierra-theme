@@ -128,6 +128,15 @@
     "gitDecoration.addedResourceForeground": "#6B7C3A",
     "gitDecoration.untrackedResourceForeground": "#8B6B50",
 
+    // ─── Bracket Pair Colorization ───────────────────────────
+    "editorBracketHighlight.foreground1": "#9B6A2F",
+    "editorBracketHighlight.foreground2": "#B07D30",
+    "editorBracketHighlight.foreground3": "#A0522D",
+    "editorBracketHighlight.foreground4": "#8C6B42",
+    "editorBracketHighlight.foreground5": "#7A4A1E",
+    "editorBracketHighlight.foreground6": "#C1440E",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#E05020",
+
     // ─── Badges / Notifications ──────────────────────────────
     "badge.background": "#C1440E",
     "badge.foreground": "#FAF0DC",

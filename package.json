@@ -1,0 +1,19 @@
+{
+  "name": "sierra-theme",
+  "displayName": "Sierra",
+  "description": "A warm beige and sand theme — desert tones for long coding sessions",
+  "version": "1.0.0",
+  "publisher": "your-name",
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "beige", "sand", "warm", "sierra", "desert"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sierra",
+        "uiTheme": "vs",
+        "path": "./themes/sahara-color-theme.json"
+      }
+    ]
+  }
+}

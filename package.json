@@ -1,7 +1,7 @@
 {
   "name": "sierra-theme",
   "displayName": "Sierra",
-  "description": "A warm beige and sand theme — desert tones for long coding sessions",
+  "description": "A beige and burnt brick tone: rich and saturated, yet warm and comforting. Inspired by the colors of the desert and the warmth of a campfire.",
   "version": "1.0.0",
   "publisher": "Guillermo Haas-Thompson",
   "engines": { "vscode": "^1.70.0" },
@@ -12,7 +12,7 @@
       {
         "label": "Sierra",
         "uiTheme": "vs",
-        "path": "./themes/sahara-color-theme.json"
+        "path": "./themes/sierra-color-theme.json"
       }
     ]
   }

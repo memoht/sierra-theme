@@ -22,6 +22,16 @@
     "editorBracketMatch.border": "#C1440E88",
     "editorGutter.background": "#F2E5D5",
 
+    // ─── Welcome Page ──────────────────────────────────────────────
+    "textLink.foreground": "#C1440E",
+    "textLink.activeForeground": "#A83A0C",
+    "welcomePage.background": "#F2E5D5",
+    "welcomePage.tileBackground": "#E8D5BC",
+    "welcomePage.tileBorder": "#D4C2A8",
+    "welcomePage.tileHoverBackground": "#E0C9A6",
+    "walkthrough.stepTitle.foreground": "#7A4A1E",
+    "walkThrough.embeddedEditorBackground": "#EDE0CE",
+
     // ─── Sidebar ──────────────────────────────────────────────
     "sideBar.background": "#E8D5BC",
     "sideBar.foreground": "#3E2B1A",
@@ -177,7 +187,8 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#8C6B42"
+        "foreground": "#cc8d1a",
+        "fontStyle": "bold"
       }
     },
     {
@@ -325,7 +336,7 @@
   "semanticTokenColors": {
     "variable.defaultLibrary": "#A0522D",
     "function": "#B07D30",
-    "method": "#B07D30",
+    "method": { "foreground": "#C1440E", "bold": true },
     "class": { "foreground": "#7A4A1E", "bold": true },
     "parameter": "#5A3520",
     "property": "#9B6A2F"

@@ -204,7 +204,8 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#3E2B1A"
+        "foreground": "#C1440E",
+        "fontStyle": "bold"
       }
     },
     {
@@ -215,8 +216,8 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#9B6A2F",
-        "fontStyle": "italic"
+        "foreground": "#C1440E",
+        "fontStyle": "bold"
       }
     },
     {

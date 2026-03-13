@@ -1,12 +1,22 @@
 {
   "name": "sierra-theme",
-  "displayName": "Sierra",
-  "description": "A beige and burnt brick tone: rich and saturated, yet warm and comforting. Inspired by the colors of the desert and the warmth of a campfire.",
+  "displayName": "Sierra Theme",
+  "description": "A beige and burnt brick toned theme inspired by the colors of the desert and the warmth of a campfire.",
   "version": "1.0.0",
   "publisher": "Guillermo Haas-Thompson",
+  "license": "MIT",
   "engines": { "vscode": "^1.70.0" },
   "categories": ["Themes"],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#C1440E",
+    "theme": "light"
+  },
   "keywords": ["theme", "beige", "sand", "warm", "sierra", "desert"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memoht/sierra-theme.git"
+    },
   "contributes": {
     "themes": [
       {

@@ -25,6 +25,16 @@ The palette draws from warm mid-tones throughout — no stark whites or pure bla
 
 ## Notes
 
+This theme is maintained by the following person
+
+[![Guillermo Haas-Thompson](https://avatars.githubusercontent.com/u/492691?v=4&s=70)](https://github.com/memoht) |
+:---: |
+[Guillermo Haas-Thompson](https://github.com/memoht)
+
 I built this theme for myself with the help of [Claude.ai](https://claude.ai). It's tuned to my own taste — warm tones that are pleasing to look at without being distracting. Use at your own risk, but I hope you find it as comfortable to work in as I do.
 
 Tweaks and suggestions welcome via issues or pull requests.
+
+## License
+
+[MIT License](./LICENSE)

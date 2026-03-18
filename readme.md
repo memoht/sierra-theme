@@ -1,6 +1,8 @@
-# Sierra — A VS Code Color Theme
+# Sierra theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-A warm, easy-on-the-eyes color theme built around beige, sand, and brown tones. Inspired by desert light and designed for long coding sessions where harsh contrast gets tiring.
+> A warm, easy-on-the-eyes color theme built around beige, sand, and brown tones. Inspired by desert light and designed for long coding sessions where harsh contrast gets tiring.
+
+![Screenshot](https://raw.githubusercontent.com/memoht/sierra-theme/master/screenshot.png)
 
 ## Colors
 

@@ -16,11 +16,14 @@ The palette draws from warm mid-tones throughout — no stark whites or pure bla
 - **Classes & types** — chestnut `#7A4A1E`
 - **Constants & numbers** — sienna `#A0522D`
 - **Comments** — muted taupe `#6C665C`, italic
+- **Variables** — plain foreground, so keywords and calls stand out
 - **Sidebar / Activity Bar** — slightly darker beige `#E8D5BC`
 - **Status bar** — terracotta `#C1440E`
 
-Every color used for text meets or approaches WCAG AA (4.5:1) against the
-surface it sits on, so the warmth doesn't come at the cost of legibility.
+Only keywords and type names are bolded; everything else stays at normal
+weight so the page doesn't shout. Every color used for text meets or
+approaches WCAG AA (4.5:1) against the surface it sits on, so the warmth
+doesn't come at the cost of legibility.
 
 ## Installation
 

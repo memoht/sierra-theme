@@ -133,19 +133,19 @@
     // ─── Peek / Git ───────────────────────────────────────────
     "diffEditor.insertedTextBackground": "#6B7C3A22",
     "diffEditor.removedTextBackground": "#C1440E22",
-    "gitDecoration.modifiedResourceForeground": "#B07D30",
-    "gitDecoration.deletedResourceForeground": "#C1440E",
-    "gitDecoration.addedResourceForeground": "#6B7C3A",
-    "gitDecoration.untrackedResourceForeground": "#8B6B50",
+    "gitDecoration.modifiedResourceForeground": "#7C5822",
+    "gitDecoration.deletedResourceForeground": "#A73B0C",
+    "gitDecoration.addedResourceForeground": "#56642F",
+    "gitDecoration.untrackedResourceForeground": "#745943",
 
     // ─── Bracket Pair Colorization ───────────────────────────
-    "editorBracketHighlight.foreground1": "#9B6A2F",
-    "editorBracketHighlight.foreground2": "#B07D30",
-    "editorBracketHighlight.foreground3": "#A0522D",
-    "editorBracketHighlight.foreground4": "#8C6B42",
-    "editorBracketHighlight.foreground5": "#7A4A1E",
-    "editorBracketHighlight.foreground6": "#C1440E",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#E05020",
+    "editorBracketHighlight.foreground1": "#C1440E",
+    "editorBracketHighlight.foreground2": "#8A6020",
+    "editorBracketHighlight.foreground3": "#5F6E33",
+    "editorBracketHighlight.foreground4": "#447063",
+    "editorBracketHighlight.foreground5": "#596983",
+    "editorBracketHighlight.foreground6": "#8B4A6B",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#B33A0A",
 
     // ─── Badges / Notifications ──────────────────────────────
     "badge.background": "#C1440E",
@@ -332,8 +332,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#7D5F3C",
-        "fontStyle": "bold"
+        "foreground": "#7D5F3C"
       }
     },
     {
@@ -369,8 +368,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#C1440E",
-        "fontStyle": "bold"
+        "foreground": "#3E2B1A"
       }
     },
     {
@@ -381,8 +379,7 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#C1440E",
-        "fontStyle": "bold"
+        "foreground": "#C1440E"
       }
     },
     {
@@ -418,7 +415,7 @@
       "name": "Operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#8B6B50"
+        "foreground": "#806249"
       }
     },
     {
@@ -430,7 +427,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#9C7C60"
+        "foreground": "#8F7258"
       }
     },
     {
@@ -464,7 +461,7 @@
       "name": "Regex",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#8C6B42"
+        "foreground": "#81633D"
       }
     },
     {
@@ -481,9 +478,9 @@
   "semanticTokenColors": {
     "variable.defaultLibrary": "#A0522D",
     "function": "#8A6020",
-    "method": { "foreground": "#C1440E", "bold": true },
+    "method": "#8A6020",
     "class": { "foreground": "#7A4A1E", "bold": true },
     "parameter": "#5A3520",
-    "property": "#9B6A2F"
+    "property": "#8B5F2A"
   }
 }

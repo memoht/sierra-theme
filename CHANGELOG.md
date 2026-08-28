@@ -13,3 +13,4 @@ Initial release.
   panel, integrated terminal, lists, widgets, menus, peek view, and
   diagnostics.
 - Full 16-color ANSI palette tuned for a light terminal background.
+- Six-hue bracket pair colorization.

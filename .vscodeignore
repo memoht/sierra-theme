@@ -1,3 +1,11 @@
 .github/**
 .vscode/**
+.claude/**
+.git/**
+.gitignore
+.gitattributes
 .editorconfig
+.vscodeignore
+screenshot.png
+**/*.vsix
+**/.DS_Store

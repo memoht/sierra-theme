@@ -3,20 +3,41 @@
   "displayName": "Sierra Theme",
   "description": "A beige and burnt brick toned theme inspired by the colors of the desert and the warmth of a campfire.",
   "version": "1.0.0",
-  "publisher": "Guillermo Haas-Thompson",
+  "publisher": "memoht",
+  "author": {
+    "name": "Guillermo Haas-Thompson",
+    "url": "https://github.com/memoht"
+  },
   "license": "MIT",
-  "engines": { "vscode": "^1.70.0" },
-  "categories": ["Themes"],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#C1440E",
-    "theme": "light"
+    "theme": "dark"
   },
-  "keywords": ["theme", "beige", "sand", "warm", "sierra", "desert"],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/memoht/sierra-theme.git"
-    },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "light",
+    "beige",
+    "sand",
+    "warm",
+    "sierra",
+    "desert"
+  ],
+  "homepage": "https://github.com/memoht/sierra-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/memoht/sierra-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/memoht/sierra-theme/issues"
+  },
   "contributes": {
     "themes": [
       {
